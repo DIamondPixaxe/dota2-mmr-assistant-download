@@ -1,5 +1,5 @@
 # dota2-mmr-assistant-download
-Dota2 MMR 记录助手公开下载页（仅发布成品，不包含源码）
+Dota2 MMR 记录助手公开下载页
 # Dota2 MMR 记录助手
 
 这是 Dota2 MMR 记录助手的公开下载页。
